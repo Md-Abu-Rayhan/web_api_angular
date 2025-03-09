@@ -1,0 +1,11 @@
+H:\ANGULAR\WEB_API\Domain\bin\Debug\net9.0\Domain.deps.json
+H:\ANGULAR\WEB_API\Domain\bin\Debug\net9.0\Domain.dll
+H:\ANGULAR\WEB_API\Domain\bin\Debug\net9.0\Domain.pdb
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.dll
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\refint\Domain.dll
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\Domain.pdb
+H:\ANGULAR\WEB_API\Domain\obj\Debug\net9.0\ref\Domain.dll

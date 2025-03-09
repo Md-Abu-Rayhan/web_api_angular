@@ -1,0 +1,15 @@
+H:\ANGULAR\WEB_API\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+H:\ANGULAR\WEB_API\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+H:\ANGULAR\WEB_API\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+H:\ANGULAR\WEB_API\Infrastructure\bin\Debug\net9.0\Domain.dll
+H:\ANGULAR\WEB_API\Infrastructure\bin\Debug\net9.0\Domain.pdb
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+H:\ANGULAR\WEB_API\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
